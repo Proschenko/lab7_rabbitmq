@@ -1,0 +1,7 @@
+/.env
+/.idea
+/app.log
+/processed_links.txt
+/utils
+/venv
+/__pycache__
